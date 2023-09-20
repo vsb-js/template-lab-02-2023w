@@ -1,0 +1,2 @@
+// 1. display (console.log) all names of vehicles from local file data/vehicles.json (you can use FS readFileSync)
+// Example in the presentation https://docs.google.com/presentation/d/1JrufeLjxbBKKjWqnj1l32hcouQ3Hw-8rMIn_zzCTF7U/edit#slide=id.gec017bc9e0_0_284

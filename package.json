@@ -1,0 +1,13 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "Lab 02 - JavaScript VSB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": "true",
+  "devDependencies": {},
+  "dependencies": {},
+  "type": "module"
+}
