@@ -2,6 +2,9 @@
 
 // use this API
 const apiUrl = 'https://swapi.dev/api/planets/?format=json'
+// Backup url / in csae the first one is not working
+const backupApiUrl =  'https://coh-stats-swapi-production.edgio.link/api/planets/?format=json'
+
 
 // TASKS: 
 // 1. create function downloadPlanets, which will download the data and return data.results
@@ -30,4 +33,4 @@ const savePlanets = (fileName, planets) => {
 }
 
 
-
+console.log(await downloadPlanets())
